@@ -1,6 +1,6 @@
 # About
 
-The guidance below refers to 'stream.py' file only.
+The guidance below refers to `stream.py` file only.
 
 Python script for connecting to Twitter stream, gather tweets that match a particular keyword, hashtag or mention and save them on a CSV file.
 
