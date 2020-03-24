@@ -1,10 +1,11 @@
 # About
 
+The guidance below refers to 'stream.py' file only.
+
 Python script for connecting to Twitter stream, gather tweets that match a particular keyword, hashtag or mention and save them on a CSV file.
 
 Keep up in mind that [Twitter statuses/filter API](https://developer.twitter.com/en/docs/tweets/filter-realtime/overview.htmls) has a 400 keywords limit for streaming realtime tweets.
 
-`sample-tweets.csv` is a sample file for a search around SEO.
 
 # Requirements
 
