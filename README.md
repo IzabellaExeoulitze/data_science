@@ -1,7 +1,11 @@
+![GitHub Logo](https://github.com/IzabellaExeoulitze/twitter_sentiment_analysis/blob/master/compound2.png)
+
+
+
+
 Collect Twitter data based on ‘#candidates’ for the 2020 Democratic Party Presidential Primaries
 Perform Sentiment Analysis on tweets which mention each candidate
 Compare sentiment analysis scores to the National Polling for each candidate for the same period
-
 Predict sentiment scores based on prior data
 Check model quality based on available metrics
 
