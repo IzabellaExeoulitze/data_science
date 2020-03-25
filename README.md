@@ -1,4 +1,19 @@
-The aim of the project is to :
+Collect Twitter data based on ‘#candidates’ for the 2020 Democratic Party Presidential Primaries
+Perform Sentiment Analysis on tweets which mention each candidate
+Compare sentiment analysis scores to the National Polling for each candidate for the same period
+
+Predict sentiment scores based on prior data
+Check model quality based on available metrics
+
+
+
+
+
+
+
+
+
+The aim of the Twitter Sentiment Analysis project is to:
 
 Collect Twitter data based on ‘#candidates’ for the 2020 Democratic Party Presidential Primaries
 Perform Sentiment Analysis on tweets which mention each candidate
