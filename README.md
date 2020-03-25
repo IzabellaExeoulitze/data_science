@@ -1,4 +1,4 @@
-![GitHub Logo](https://github.com/IzabellaExeoulitze/twitter_sentiment_analysis/blob/master/compound2.png)
+![GitHub Logo]()
 
 
 
